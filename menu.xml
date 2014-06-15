@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<menu>
+    <specialities>
+        <title name="Pizzas">
+            <type name="Pepper Pepperoni Pizza">$32</type>
+            <type name="Square Pizza">$25</type>
+            <type name="Round Pizza">$20</type>
+            <type name="Triangle Pizza">$28</type>
+        </title>
+        <title name="Pastas">
+            <type name="Penne">$15</type>
+            <type name="Macaroni">$12</type>
+            <type name="Spaghetti">$16</type>
+            <type name="Lasagna">$18</type>
+        </title>
+    </specialities>
+    <specialities>
+        <title name="Shakes">
+            <type name="Chocolate">$10</type>
+            <type name="Coffee">$8</type>
+            <type name="Banana">$5</type>
+            <type name="Mango">$6</type>
+            <type name="Kiwi">$12</type>
+        </title>
+        <title name="Coffee">
+            <type name="Cappuccino">$5</type>
+            <type name="Latte">$3</type>
+            <type name="Java">$2</type>
+            <type name="Mocha">$3</type>
+            <type name="Irish">$6</type>    
+        </title>
+    </specialities>
+    <specialities>
+        <title name="Ice creams">
+            <type name="Chocolate">$8</type>
+            <type name="Coffee">$5</type>
+        </title>
+    </specialities>
+</menu>
